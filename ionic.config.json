@@ -1,0 +1,7 @@
+{
+  "name": "word-cards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

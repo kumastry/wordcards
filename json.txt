@@ -1,0 +1,38 @@
+[
+    {
+    タイトル:string,
+    id:number,
+    中身:[
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        .
+        .
+        .
+    ]
+    },
+
+    {
+    タイトル:string,
+    id:number,
+    中身:[
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        {単語:string,約:string}
+        .
+        .
+        .
+    ]
+    },
+    .
+    .
+    .
+]
