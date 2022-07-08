@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">word-cards</string>
+    <string name="title_activity_main">word-cards</string>
+    <string name="package_name">rakutan.app</string>
+    <string name="custom_url_scheme">rakutan.app</string>
+</resources>
